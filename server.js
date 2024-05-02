@@ -6,7 +6,8 @@ const rappers = {
     '21 savage': {
         'age': 29,
         'birthName': 'Shéyaa Bin Abraham-Joseph',
-        'birthLocation': 'London, England'
+        'birthLocation': 'London, England',
+        'image': '/Untitled.jpg'
     },
     'chance the rapper':{
         'age': 29,
